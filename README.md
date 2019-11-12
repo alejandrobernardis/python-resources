@@ -28,21 +28,21 @@ Read more https://es.wikipedia.org/wiki/Python
 
 #### pip
 
-https://pip.pypa.io/en/stable/
+[1]
 
-**Pip** is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes...
+**Pip** is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes... [read more][1]
 
 #### virtualenv
 
 https://virtualenv.pypa.io/en/latest/
 
-**Virtualenv** is a tool to create isolated Python environments...
+**Virtualenv** is a tool to create isolated Python environments... [read more]()
 
 #### pipenv
 
 https://pipenv.kennethreitz.org/en/latest/
 
-**Pipenv** is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world. Windows is a first-class citizen, in our world...
+**Pipenv** is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world. Windows is a first-class citizen, in our world... [read more]()
 
 #### PyCharm
 
@@ -54,7 +54,7 @@ https://www.jetbrains.com/pycharm/
 
 https://packaging.python.org/
 
-Welcome to the Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools...
+Welcome to the Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools... [read more]()
 
 ##### Get started
 
@@ -64,3 +64,13 @@ Essential tools and concepts for working within the Python development ecosystem
 * to learn how to manage dependencies in a version controlled project, see the [tutorial on managing application dependencies](https://packaging.python.org/tutorials/managing-dependencies/).
 * to learn how to package and distribute your projects, see the [tutorial on packaging and distributing](https://packaging.python.org/tutorials/packaging-projects/).
 * to get an overview of packaging options for Python libraries and applications, see the [Overview of Python Packaging](https://packaging.python.org/overview/).
+
+[1]: https://pip.pypa.io/en/stable/
+[2]: https://virtualenv.pypa.io/en/latest/
+[3]: https://pipenv.kennethreitz.org/en/latest/
+[4]: https://packaging.python.org/
+[5]:
+[6]:
+[7]:
+[8]:
+[9]:
