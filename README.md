@@ -44,6 +44,12 @@ https://pipenv.kennethreitz.org/en/latest/
 
 **Pipenv** is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world. Windows is a first-class citizen, in our world...
 
+#### PyCharm
+
+https://www.jetbrains.com/pycharm/
+
+[**Be More Productive**](https://www.jetbrains.com/pycharm/download/). Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features.
+
 #### Python Packaging User Guide
 
 https://packaging.python.org/
