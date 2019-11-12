@@ -4,11 +4,9 @@
 
 ## Wikipedia says...
 
-> Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su codigo.
+> Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[27]
 >
-> Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
->
-> Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,2​ que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
+> Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.[28]
 
 Read more https://es.wikipedia.org/wiki/Python
 
