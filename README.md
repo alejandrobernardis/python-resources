@@ -48,7 +48,7 @@ https://pipenv.kennethreitz.org/en/latest/
 
 https://www.jetbrains.com/pycharm/
 
-[**Be More Productive**](https://www.jetbrains.com/pycharm/download/). Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features.
+[**Be More Productive**][5]. Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features.
 
 #### Python Packaging User Guide
 
@@ -60,12 +60,17 @@ Welcome to the Python Packaging User Guide, a collection of tutorials and refere
 
 Essential tools and concepts for working within the Python development ecosystem are covered in our Tutorials section:
 
-* to learn how to install packages, see the [tutorial on installing packages](https://packaging.python.org/tutorials/installing-packages/).
-* to learn how to manage dependencies in a version controlled project, see the [tutorial on managing application dependencies](https://packaging.python.org/tutorials/managing-dependencies/).
-* to learn how to package and distribute your projects, see the [tutorial on packaging and distributing](https://packaging.python.org/tutorials/packaging-projects/).
-* to get an overview of packaging options for Python libraries and applications, see the [Overview of Python Packaging](https://packaging.python.org/overview/).
+* to learn how to install packages, see the [tutorial on installing packages][6].
+* to learn how to manage dependencies in a version controlled project, see the [tutorial on managing application dependencies][7].
+* to learn how to package and distribute your projects, see the [tutorial on packaging and distributing][8].
+* to get an overview of packaging options for Python libraries and applications, see the [Overview of Python Packaging][9].
 
 [1]: https://pip.pypa.io/en/stable/
 [2]: https://virtualenv.pypa.io/en/latest/
 [3]: https://pipenv.kennethreitz.org/en/latest/
 [4]: https://packaging.python.org/
+[5]: https://www.jetbrains.com/pycharm/download/
+[6]: https://packaging.python.org/tutorials/installing-packages/
+[7]: https://packaging.python.org/tutorials/managing-dependencies/
+[8]: https://packaging.python.org/tutorials/packaging-projects/
+[9]: https://packaging.python.org/overview/
