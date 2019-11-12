@@ -12,10 +12,11 @@ Read more https://en.wikipedia.org/wiki/Programming_language
 
 ## Comparison of Programming Languages
 
-| Language | Imperative | Object-oriented | Functional | Procedural | Generic | Reflective | Event-driven |
+| Language | [Imperative][10] | [Object-Oriented][11] | [Functional][12] | [Procedural][13] | [Generic][14] | [Reflective][15] | [Event-driven][16] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Bash][1]       | x | - | - | x | - | - | - |
 | [JavaScript][2] | x | x | x | x | - | x | x |
+| [Lua][7]        | x | x | x | x | - | x | - |
 | [Perl][3]       | x | x | x | x | x | x | - |
 | [PHP][4]        | x | x | x | x | - | x | - |
 | [Python][5]     | x | x | x | x | x | x | x |
@@ -29,3 +30,16 @@ Source https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 [4]: https://en.wikipedia.org/wiki/PHP
 [5]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [6]: https://en.wikipedia.org/wiki/Ruby_(programming_language)
+[7]: https://en.wikipedia.org/wiki/Lua_(programming_language)
+
+[10]: https://en.wikipedia.org/wiki/Imperative_programming
+[11]: https://en.wikipedia.org/wiki/Object-oriented_programming
+[12]: https://en.wikipedia.org/wiki/Functional_programming
+[13]: https://en.wikipedia.org/wiki/Procedural_programming
+[14]: https://en.wikipedia.org/wiki/Generic_programming
+[15]: https://en.wikipedia.org/wiki/Reflective_programming
+[16]: https://en.wikipedia.org/wiki/Event-driven_programming
+
+### Links
+
+    * Comparison of Programming Languages (basic instructions) https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
