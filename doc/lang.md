@@ -13,7 +13,7 @@ Read more https://en.wikipedia.org/wiki/Programming_language
 ## Comparison of Programming Languages
 
 | Language | [Imperative][10] | [Object-Oriented][11] | [Functional][12] | [Procedural][13] | [Generic][14] | [Reflective][15] | [Event-driven][16] |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Bash][1]       | x | - | - | x | - | - | - |
 | [JavaScript][2] | x | x | x | x | - | x | x |
 | [Lua][7]        | x | x | x | x | - | x | - |
@@ -31,7 +31,6 @@ Source https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 [5]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [6]: https://en.wikipedia.org/wiki/Ruby_(programming_language)
 [7]: https://en.wikipedia.org/wiki/Lua_(programming_language)
-
 [10]: https://en.wikipedia.org/wiki/Imperative_programming
 [11]: https://en.wikipedia.org/wiki/Object-oriented_programming
 [12]: https://en.wikipedia.org/wiki/Functional_programming
@@ -42,4 +41,4 @@ Source https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 
 ### Links
 
-    * Comparison of Programming Languages (basic instructions) https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+* Comparison of Programming Languages (basic instructions) https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
