@@ -42,3 +42,8 @@ Source https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 ### Links
 
 * Comparison of Programming Languages (basic instructions) https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+
+* **Bash**
+    * https://www.gnu.org/software/bash
+    * https://ss64.com/bash/index.html
+
