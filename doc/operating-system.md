@@ -1,6 +1,16 @@
-# Linux
+# Operating System
 
-## ## Wikipedia says...
+## Wikipedia says...
+
+> An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
+>
+> Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.
+>
+> ...
+
+https://en.wikipedia.org/wiki/Operating_system
+
+## Linux
 
 > Linux (/ˈlɪnəks/ (About this soundlisten) LIN-əks) is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.
 >
@@ -23,3 +33,7 @@ Read more https://en.wikipedia.org/wiki/Linux
 | Ubuntu and Derivatives | Canonical Ltd. | Canonical Ltd. | 2004 | 19.10 | Standard releases 1 year, LTS releases 5 years. Flavor LTS releases 3 or 5 years. | 2019-10-17 | X | Debian | general, server, desktop, supercomputer, IBM mainframe | Gratis | Active |
 
 Source https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions
+
+### Links
+
+* List of Operating Systems https://en.wikipedia.org/wiki/List_of_operating_systems
