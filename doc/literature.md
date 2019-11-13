@@ -2,6 +2,8 @@
 
 ## **Bruce Eckel**
 
+![Bruce Eckel](/doc/assets/bruce_eckel.jpg)
+
 > Bruce Eckel (born July 8, 1957) is a computer programmer, author and consultant. His best known works are Thinking in Java and Thinking in C++, aimed at programmers wanting to learn the Java or C++ programming languages, particularly those with little experience of object-oriented programming. Eckel was a founding member of the ANSI/ISO C++ standard committee.
 >
 > ...
