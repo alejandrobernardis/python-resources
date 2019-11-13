@@ -87,3 +87,44 @@ A more detailed classification is the following, based on one from Stephen Yen:
 | Native Multi-model Database             | ArangoDB, Cosmos DB, OrientDB, MarkLogic |
 
 Source https://en.wikipedia.org/wiki/NoSQL#Types_and_examples
+
+### Comparison of Structured Storage Software
+
+| Engine | Type | [Persistence][100] | [Replication][101] | [High Availability][102] | [Transactions][103] | Rack-locality Awareness | Implementation Language | License |
+| Apache Cassandra | Key-value | Yes | Yes | Distributed | Partial Only supports CAS (Check And Set) after 2.1.1 and later | Yes | Java | Apache 2.0 |
+| Apache HBase | Key-value | Yes. Major version upgrades require re-import. | Yes HDFS, Amazon S3 or Amazon Elastic Block Store. | Yes | Yes | See HDFS, S3 or EBS. | Java | Apache 2.0 |
+| Memcached | Key-value | No | No | No | Partial Only supports CAS (Check And Set - or Compare And Swap) | No | C | BSD-like permissive copyright by Danga |
+| MongoDB | Document (JSON) | Yes | Yes | fail-over | Partial Single document atomicity | No | C++ | GNU AGPL v3.0 |
+| Neo4j | Graph database | Yes | Yes | Yes | Yes | No | Java | GNU GPL v3.0 |
+| Redis | Key-value | Yes. But last few queries can be lost. | Yes | Yes | Yes | No | Ansi-C | BSD |
+
+Source https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software
+
+[100]: https://en.wikipedia.org/wiki/Persistence_(computer_science)
+[101]: https://en.wikipedia.org/wiki/Replication_(computer_science)
+[102]: https://en.wikipedia.org/wiki/High_Availability
+[103]: https://en.wikipedia.org/wiki/Transaction_processing
+
+### Performance
+
+[Ben Scofield][200] rated different categories of NoSQL databases as follows:
+
+| Data model | Performance | Scalability | Flexibility | Complexity | Functionality |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| Key–value store | high | high | high | none | variable (none) |
+| Column-oriented store | high | high | moderate | low | minimal |
+| Document-oriented store | high | variable (high) | high | low | variable (low) |
+| Graph database | variable | variable | high | high | graph theory |
+| Relational database | variable | variable | low | moderate | relational algebra |
+
+Source https://en.wikipedia.org/wiki/NoSQL#Performance
+
+[200]: http://www.slideshare.net/bscofield/nosql-codemash-2010
+
+
+
+
+
+
+
+
