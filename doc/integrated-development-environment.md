@@ -10,7 +10,7 @@
 
 Read more https://en.wikipedia.org/wiki/Integrated_development_environment
 
-### Links
+## Software
 
 * jetBrains https://www.jetbrains.com/
     * C, C++ https://www.jetbrains.com/clion/
@@ -30,7 +30,7 @@ Read more https://en.wikipedia.org/wiki/Integrated_development_environment
     * Getting Started https://code.visualstudio.com/docs/python/python-tutorial/
     * Marketplace https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-### Tools
+## Tools
 
 #### Kite
 

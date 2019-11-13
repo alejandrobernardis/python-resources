@@ -10,7 +10,7 @@
 
 Read more https://en.wikipedia.org/wiki/Version_control
 
-### Comparison of Version-Control Software
+## Comparison of Version-Control Software
 
 | Software | Programming Language | Development Status | Repository Model | Concurrency Model | License | Platforms Supported | Cost |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -46,3 +46,10 @@ Read more https://en.wikipedia.org/wiki/Git
     * GitHub Desktop https://desktop.github.com
     * TortoiseGit https://tortoisegit.org
     * Fork https://git-fork.com
+
+* Videos
+    * Search https://www.youtube.com/results?search_query=git+tutorial
+    * Git & GitHub Crash Course For Beginners https://www.youtube.com/watch?v=SWYqp7iY_Tc
+    * Git Tutorial for Beginners https://www.youtube.com/watch?v=WbwIoQYP6no
+    * Git and Github | Practical Course from Scratch https://www.youtube.com/watch?v=HiXLkL42tMU
+    * Git Tutorial for Beginners: Command-Line Fundamentals https://www.youtube.com/watch?v=HVsySz-h9r4
