@@ -12,7 +12,7 @@ Read more https://en.wikipedia.org/wiki/Database
 
 ## SQL
 
-> SQL (/ˌɛsˌkjuːˈɛl/ (About this soundlisten) S-Q-L,[4] /ˈsiːkwəl/ "sequel"; Structured Query Language)[5][6][7] is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
+> SQL (/ˌɛsˌkjuːˈɛl/ (About this soundlisten) S-Q-L, /ˈsiːkwəl/ "sequel"; Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
 >
 > ...
 
@@ -20,7 +20,7 @@ Read more https://en.wikipedia.org/wiki/SQL
 
 ## Relational (RDBMS)
 
-> A relational database is a digital database based on the relational model of data, as proposed by E. F. Codd in 1970.[1] A software system used to maintain relational databases is a relational database management system (RDBMS). Many relational database systems have an option of using the SQL (Structured Query Language) for querying and maintaining the database.[2]
+> A relational database is a digital database based on the relational model of data, as proposed by E. F. Codd in 1970. A software system used to maintain relational databases is a relational database management system (RDBMS). Many relational database systems have an option of using the SQL (Structured Query Language) for querying and maintaining the database.
 >
 > ...
 
@@ -56,7 +56,7 @@ Source https://en.wikipedia.org/wiki/Comparison_of_relational_database_managemen
 
 ## No Relational (NOSQL)
 
-> A NoSQL (originally referring to "non SQL" or "non relational")[1] database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but did not obtain the "NoSQL" moniker until a surge of popularity in the early 21st century,[2] triggered by the needs of Web 2.0 companies.[3][4] NoSQL databases are increasingly used in big data and real-time web applications.[5] NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures.[6][7]
+> A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but did not obtain the "NoSQL" moniker until a surge of popularity in the early 21st century, triggered by the needs of Web 2.0 companies. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures.
 >
 > ...
 
@@ -129,11 +129,3 @@ Source https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software
 Source https://en.wikipedia.org/wiki/NoSQL#Performance
 
 [200]: http://www.slideshare.net/bscofield/nosql-codemash-2010
-
-
-
-
-
-
-
-

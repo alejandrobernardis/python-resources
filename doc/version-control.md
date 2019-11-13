@@ -14,13 +14,19 @@ Read more https://en.wikipedia.org/wiki/Version_control
 
 | Software | Programming Language | Development Status | Repository Model | Concurrency Model | License | Platforms Supported | Cost |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bazaar     | Python, C | Active | Distributed and Client–Server | Merge | GNU GPL | Unix-like, Windows, OS X | Free |
-| CVS        | C | Maintained | Client–Server | Merge | GNU GPL | Unix-like, Windows, OS X | Free |
-| Git        | C, Perl, Shell Script | Active | Distributed | Merge | GNU GPL | POSIX, Windows, OS X | Free |
-| Mercurial  | Python, C | Active | Distributed | Merge | GNU GPL | POSIX, Windows, OS X | Free |
-| Subversion | C | Active | Client-Server | Merge or Lock | Apache | POSIX, Windows, OS X | Free |
+| [Bazaar][1]     | Python, C | Active | Distributed and Client–Server | Merge | GNU GPL | Unix-like, Windows, OS X | Free |
+| [CVS][2]        | C | Maintained | Client–Server | Merge | GNU GPL | Unix-like, Windows, OS X | Free |
+| [Git][3]        | C, Perl, Shell Script | Active | Distributed | Merge | GNU GPL | POSIX, Windows, OS X | Free |
+| [Mercurial][4]  | Python, C | Active | Distributed | Merge | GNU GPL | POSIX, Windows, OS X | Free |
+| [Subversion][5] | C | Active | Client-Server | Merge or Lock | Apache | POSIX, Windows, OS X | Free |
 
 Source https://en.wikipedia.org/wiki/Comparison_of_version-control_software
+
+[1]: https://en.wikipedia.org/wiki/GNU_Bazaar
+[2]: https://en.wikipedia.org/wiki/Concurrent_Versions_System
+[3]: https://en.wikipedia.org/wiki/Git_(software)
+[4]: https://en.wikipedia.org/wiki/Mercurial
+[5]: https://en.wikipedia.org/wiki/Apache_Subversion
 
 ## GIT
 

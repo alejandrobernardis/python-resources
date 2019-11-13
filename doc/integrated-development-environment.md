@@ -12,20 +12,20 @@ Read more https://en.wikipedia.org/wiki/Integrated_development_environment
 
 ## Software
 
-* jetBrains https://www.jetbrains.com/
+* **jetBrains** https://www.jetbrains.com/
     * C, C++ https://www.jetbrains.com/clion/
     * SQL (oracle, mssql, mysql, etc) https://www.jetbrains.com/datagrip/
     * Go https://www.jetbrains.com/go/
     * Python https://www.jetbrains.com/pycharm/
     * JavaScript https://www.jetbrains.com/webstorm/
 
-* SublimeText https://www.sublimetext.com/
+* **SublimeText** https://www.sublimetext.com/
     * Full Stack https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
 
-* Atom https://atom.io/
+* **Atom** https://atom.io/
     * IDE-python https://atom.io/packages/ide-python/
 
-* Visual Code https://code.visualstudio.com/
+* **Visual Code** https://code.visualstudio.com/
     * Python https://code.visualstudio.com/docs/languages/python/
     * Getting Started https://code.visualstudio.com/docs/python/python-tutorial/
     * Marketplace https://marketplace.visualstudio.com/items?itemName=ms-python.python
