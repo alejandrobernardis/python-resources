@@ -18,8 +18,12 @@ Read more https://en.wikipedia.org/wiki/Virtual_machine
 
 ### Software
 
-* VirtualBox https://www.virtualbox.org
-* VM Ware Workstation Player https://www.vmware.com/products/workstation-player.html
+* **VirtualBox** https://www.virtualbox.org
+* **VM Ware Workstation Player** https://www.vmware.com/products/workstation-player.html
+
+### Links
+
+* Comparison of platform virtualization software https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software
 
 ## Docker
 
@@ -44,7 +48,7 @@ Docker Hub is a service provided by Docker for finding and sharing container ima
 * **Builds:** Automatically build container images from GitHub and Bitbucket and push them to Docker Hub.
 * **Webhooks:** Trigger actions after a successful push to a repository to integrate Docker Hub with other services.
 
-[read more][1]
+...[read more][1]
 
 ### Swarm
 
@@ -57,13 +61,13 @@ Docker Swarm is native clustering for Docker. It turns a pool of Docker hosts in
 * Docker Machine
 * Jenkins
 
-[read more][5]
+...[read more][5]
 
 ### Docker Compose
 
 https://docs.docker.com/compose
 
-Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. To learn more about all the features of Compose, see [the list of features][4].... [read more][2]
+Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. To learn more about all the features of Compose, see [the list of features][4]... [read more][2]
 
 ### Registry
 
@@ -77,6 +81,12 @@ The Registry is a stateless, highly scalable server side application that stores
 [4]: https://docs.docker.com/compose/#features
 [5]: https://docs.docker.com/swarm/overview/
 
-## Links
+## Operative Sysytems
 
-* DevOps https://en.wikipedia.org/wiki/DevOps
+### Container Linux
+
+https://coreos.com/
+
+Container Linux (formerly CoreOS Linux) is an open-source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments, while focusing on automation, ease of application deployment, security, reliability and scalability. As an operating system, Container Linux provides only the minimal functionality required for deploying applications inside software containers, together with built-in mechanisms for service discovery and configuration sharing... [read more][10]
+
+[10]: https://en.wikipedia.org/wiki/Container_Linux
