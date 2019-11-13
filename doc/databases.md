@@ -129,3 +129,27 @@ Source https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software
 Source https://en.wikipedia.org/wiki/NoSQL#Performance
 
 [200]: http://www.slideshare.net/bscofield/nosql-codemash-2010
+
+## Data Warehouse
+
+> In computing, a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis, and is considered a core component of business intelligence. DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place that are used for creating analytical reports for workers throughout the enterprise.
+>
+> ..
+
+Read more https://en.wikipedia.org/wiki/Data_warehouse
+
+## Links
+
+* **SQL**
+    * PostgreSQL https://www.postgresql.org
+    * MariaDB https://mariadb.org
+
+* **NoSQL**
+    * MongoDB https://www.mongodb.com/es
+    * RethinkDB https://rethinkdb.com
+    * Redis https://redis.io
+
+* **Language**
+    * SQL https://en.wikipedia.org/wiki/SQL
+    * PL/SQL https://en.wikipedia.org/wiki/PL/SQL
+    * DDL https://en.wikipedia.org/wiki/Data_definition_language
