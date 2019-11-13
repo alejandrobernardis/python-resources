@@ -16,6 +16,11 @@ Read more https://en.wikipedia.org/wiki/OS-level_virtualization
 
 Read more https://en.wikipedia.org/wiki/Virtual_machine
 
+### Software
+
+* VirtualBox https://www.virtualbox.org
+* VM Ware Workstation Player https://www.vmware.com/products/workstation-player.html
+
 ## Docker
 
 https://www.docker.com/
