@@ -10,7 +10,7 @@
 
 Read more https://en.wikipedia.org/wiki/Version_control
 
-## Comparison of Version-Control Software
+### Comparison of Version-Control Software
 
 | Software | Programming Language | Development Status | Repository Model | Concurrency Model | License | Platforms Supported | Cost |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -21,3 +21,28 @@ Read more https://en.wikipedia.org/wiki/Version_control
 | Subversion | C | Active | Client-Server | Merge or Lock | Apache | POSIX, Windows, OS X | Free |
 
 Source https://en.wikipedia.org/wiki/Comparison_of_version-control_software
+
+## GIT
+
+https://git-scm.com/
+
+> Git (/ɡɪt/)[7] is a distributed version-control system for tracking changes in source code during software development.[8] It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed,[9] data integrity,[10] and support for distributed, non-linear workflows.[11]
+>
+> ...
+
+Read more https://en.wikipedia.org/wiki/Git
+
+### Links
+
+* Books
+    * Git https://git-scm.com/book/en/v2
+
+* Platforms
+    * GitHub https://github.com
+    * GitLab https://gitlab.com
+
+* GUI Clients
+    * Sourcetree https://www.sourcetreeapp.com
+    * GitHub Desktop https://desktop.github.com
+    * TortoiseGit https://tortoisegit.org
+    * Fork https://git-fork.com
