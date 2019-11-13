@@ -42,10 +42,10 @@ Read more https://en.wikipedia.org/wiki/Git
     * GitLab https://gitlab.com
 
 * GUI Clients
-    * Sourcetree https://www.sourcetreeapp.com
     * GitHub Desktop https://desktop.github.com
     * TortoiseGit https://tortoisegit.org
     * Fork https://git-fork.com
+    * Sourcetree https://www.sourcetreeapp.com
 
 * Videos
     * Search https://www.youtube.com/results?search_query=git+tutorial
