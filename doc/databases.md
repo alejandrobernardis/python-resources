@@ -91,6 +91,7 @@ Source https://en.wikipedia.org/wiki/NoSQL#Types_and_examples
 ### Comparison of Structured Storage Software
 
 | Engine | Type | [Persistence][100] | [Replication][101] | [High Availability][102] | [Transactions][103] | Rack-locality Awareness | Implementation Language | License |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Apache Cassandra | Key-value | Yes | Yes | Distributed | Partial Only supports CAS (Check And Set) after 2.1.1 and later | Yes | Java | Apache 2.0 |
 | Apache HBase | Key-value | Yes. Major version upgrades require re-import. | Yes HDFS, Amazon S3 or Amazon Elastic Block Store. | Yes | Yes | See HDFS, S3 or EBS. | Java | Apache 2.0 |
 | Memcached | Key-value | No | No | No | Partial Only supports CAS (Check And Set - or Compare And Swap) | No | C | BSD-like permissive copyright by Danga |
