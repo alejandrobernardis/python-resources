@@ -17,5 +17,3 @@ Read more https://en.wikipedia.org/wiki/Database
 > ...
 
 Read more https://en.wikipedia.org/wiki/SQL
-
-## NOSQL
