@@ -92,12 +92,13 @@ Source https://en.wikipedia.org/wiki/NoSQL#Types_and_examples
 
 | Engine | Type | [Persistence][100] | [Replication][101] | [High Availability][102] | [Transactions][103] | Rack-locality Awareness | Implementation Language | License |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Apache Cassandra | Key-value | Yes | Yes | Distributed | Partial Only supports CAS (Check And Set) after 2.1.1 and later | Yes | Java | Apache 2.0 |
-| Apache HBase | Key-value | Yes. Major version upgrades require re-import. | Yes HDFS, Amazon S3 or Amazon Elastic Block Store. | Yes | Yes | See HDFS, S3 or EBS. | Java | Apache 2.0 |
-| Memcached | Key-value | No | No | No | Partial Only supports CAS (Check And Set - or Compare And Swap) | No | C | BSD-like permissive copyright by Danga |
-| MongoDB | Document (JSON) | Yes | Yes | fail-over | Partial Single document atomicity | No | C++ | GNU AGPL v3.0 |
-| Neo4j | Graph database | Yes | Yes | Yes | Yes | No | Java | GNU GPL v3.0 |
-| Redis | Key-value | Yes. But last few queries can be lost. | Yes | Yes | Yes | No | Ansi-C | BSD |
+| [Apache Cassandra][110]      | Key-value | Yes | Yes | Distributed | Partial Only supports CAS (Check And Set) after 2.1.1 and later | Yes | Java | Apache 2.0 |
+| [Apache HBase][111]          | Key-value | Yes. Major version upgrades require re-import. | Yes HDFS, Amazon S3 or Amazon Elastic Block Store. | Yes | Yes | See HDFS, S3 or EBS. | Java | Apache 2.0 |
+| [Memcached][112]             | Key-value | No | No | No | Partial Only supports CAS (Check And Set - or Compare And Swap) | No | C | BSD-like permissive copyright by Danga |
+| [MongoDB][113]               | Document (JSON) | Yes | Yes | fail-over | Partial Single document atomicity | No | C++ | GNU AGPL v3.0 |
+| [Neo4j][114]                 | Graph database | Yes | Yes | Yes | Yes | No | Java | GNU GPL v3.0 |
+| [Redis][115]                 | Key-value | Yes. But last few queries can be lost. | Yes | Yes | Yes | No | Ansi-C | BSD |
+| [SimpleDB (Amazon.com)][116] | Document & Key-value | Yes | Yes (automatic) | Yes | Unknown | likely | Erlang | Amazon internal only |
 
 Source https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software
 
@@ -105,6 +106,13 @@ Source https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software
 [101]: https://en.wikipedia.org/wiki/Replication_(computer_science)
 [102]: https://en.wikipedia.org/wiki/High_Availability
 [103]: https://en.wikipedia.org/wiki/Transaction_processing
+[110]: https://en.wikipedia.org/wiki/Apache_Cassandra
+[111]: https://en.wikipedia.org/wiki/Apache_HBase
+[112]: https://en.wikipedia.org/wiki/Memcached
+[113]: https://en.wikipedia.org/wiki/MongoDB
+[114]: https://en.wikipedia.org/wiki/Neo4j
+[115]: https://en.wikipedia.org/wiki/Redis
+[116]: https://en.wikipedia.org/wiki/SimpleDB
 
 ### Performance
 

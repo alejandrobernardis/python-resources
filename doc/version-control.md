@@ -34,20 +34,20 @@ Read more https://en.wikipedia.org/wiki/Git
 
 ### Links
 
-* Books
+* **Books**
     * Git https://git-scm.com/book/en/v2
 
-* Platforms
+* **Platforms**
     * GitHub https://github.com
     * GitLab https://gitlab.com
 
-* GUI Clients
+* **GUI Clients**
     * GitHub Desktop https://desktop.github.com
     * TortoiseGit https://tortoisegit.org
     * Fork https://git-fork.com
     * Sourcetree https://www.sourcetreeapp.com
 
-* Videos
+* **Videos**
     * Search https://www.youtube.com/results?search_query=git+tutorial
     * Git & GitHub Crash Course For Beginners https://www.youtube.com/watch?v=SWYqp7iY_Tc
     * Git Tutorial for Beginners https://www.youtube.com/watch?v=WbwIoQYP6no
