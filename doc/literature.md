@@ -1,4 +1,4 @@
-# Literature
+# Authors
 
 ## **Bruce Eckel**
 
@@ -23,6 +23,19 @@ Read more https://en.wikipedia.org/wiki/Bruce_Eckel
     * http://docs.linuxtone.org/ebooks/Python/Thinking_In_Python.pdf
     * https://github.com/BruceEckel/ThinkingInPython
 
-## Books
+# Books
 
-* **How to Think Like a Computer Scientist** http://www.openbookproject.net/thinkcs/python/english2e/index.html
+## Python
+
+* **How to Think Like a Computer Scientist**
+    * http://www.openbookproject.net/thinkcs/python/english2e/index.html
+
+# Academies
+
+* **Python**
+    * https://www.codecademy.com/catalog/language/python
+    * https://www.codecademy.com/learn/learn-python
+    * https://www.codecademy.com/learn/learn-python-3
+
+* **Kivy**
+    * https://www.udemy.com/course/desktop-guis-with-python-and-kivy
